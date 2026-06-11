@@ -1,0 +1,76 @@
+VIDUN THARUMIKA
+SOFTWARE ENGINEERING 
+I NTERN
+vidun.us@gmail.com
++94 702331239
+https://www.linkedin.com/in/vidun
+tharumika-8791aa293/
+PROFESSIONAL SUMMARY
+Passionate Computer Science undergraduate with a strong interest in full-stack development, cloud technologies, and
+modern web applications. Skilled in JavaScript, React, Node.js, Python, and Java, with hands on experience through
+academic and personal projects. A fast learner with strong problem-solving and teamwork abilities, eager to contribute to
+real world software solutions while continuously improving technical and professional skills in a collaborative environment.
+TECHNICAL SKILLS
+Front-End Development: React, JavaScript , HTML5, CSS3.
+Back-End Development: Node.js, Java (Spring), Python, PHP.
+Databases: SQL , Mongo DB Atlas
+API & Integration:  Postman.
+Cloud & DevOps: Google Cloud Platform (GCP), Git, GitHub,
+GitLab.
+UI/UX Design: Figma, Adobe XD, Rapid Prototyping,
+Wireframing.
+SOFT SKILLS
+Strong teamwork and collaboration skills, with
+experience working in cross-functional teams.
+Excellent problem-solving and critical thinking
+abilities.
+Adaptability to dynamic environments.
+Creativity in approaching challenges.
+Effective communication skills to convey technical
+concepts clearly to both technical and non-technical
+stakeholders.
+EDUCATION
+BSc (Hons) Computer Science  | 2024 - 2028 (Expected) 
+University of Westminster (IIT Sri Lanka)
+Program Focus : Advanced topics in concurrent programming, formal methods,server-side programming, web design,
+algorithms, and cybersecurity
+Foundation : Strong theoretical and practical preparation in software development methodologies, web technologies,
+and engineering principles
+FOUNDATION CERTIFICATE IN HIGHER EDUCATION - IT | 2023 - 2024
+Informatics Institute of Technology, Sri Lanka.
+Core Modules : Software Engineering Fundamentals, Programming, Data Management, Digital Circuits, ER Diagram
+Modeling, Time Management, and Professional Development
+Ordinary Level | 2022
+Bandaranayake College Gampaha, Sri Lanka
+PROJECTS
+EduMath LK (Group Project) 
+Co-developed an AI-powered learning platform designed to provide personalized tutoring for A/L Combined
+Mathematics students.
+Engineered the secure user authentication flow and dynamic onboarding assessment using React, Node.js, and
+Supabase, Mongodb atlas.
+Established the CI/CD deployment pipeline and managed full CRUD operations to ensure a seamless, data-secure user
+journey.
+Personal Developer Portfolio (Personal Project)
+Designed and developed a responsive single-page application using React to showcase frontend development
+capabilities.
+Implemented a reusable component architecture and modern UI design systems for a polished, professional look.
+Optimized the application for fast load times and seamless cross-device compatibility.
+CloudPulse GCP Automation Hub (Ongoing Personal Project)
+Developing a GCP-first cloud operations automation platform using Python, FastAPI, SQLAlchemy, Docker, and
+Terraform. 
+Cloud Automation: Designed to ingest cloud events, process monitoring and audit signals, and apply rule based
+workflows. 
+Monitoring & Control: Provides a dashboard for real-time event monitoring and operational control over GCP resources
+CERTIFICATIONS
+Network Technician Career Path - Cisco
+AI for Everyone - Microsoft
+API Testing with Postman - LU Certification
+Create an Agent with Copilot Studio - Microsoft
+Introduction to FinOps - The Finops Education
+Introduction to Microsoft Azure - Microsoft
+Pieces for Developers - LU Certification
+Python for Beginners - University of Moratuwa
+Full-Stack Web Development with React -  LU Certification
+Google UX Design Professional Certificate  - Google
+Github foundation exam - github
+REFEREES
